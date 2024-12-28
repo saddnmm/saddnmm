@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif" width="100">
 </div>
-### <div align="center">I'm Ainur, a full-stack developer working remotely since 2019🐳</div>  
+<div align="center">I'm Ainur, a full-stack developer working remotely since 2019🐳</div>  
   
 
 -  🙏 I'm currently studying [Event-driven architecture (EDA)](https://www.geeksforgeeks.org/event-driven-architecture-system-design/)  
@@ -114,9 +114,5 @@
   
 
 <br/>  
-
-
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
