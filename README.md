@@ -2,6 +2,13 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif" width="100">
 </div>
+<div id="badges">
+  <a href="https://t.me/weae_f">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+
+</div>
 <!--
 **saddnmm/saddnmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
