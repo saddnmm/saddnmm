@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.tenor.com/m/25ykirk3p4yaaaad/oz-oz-yarimasu.gif" width="100">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]" width="100">
 </div>
 <!--
 **saddnmm/saddnmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
